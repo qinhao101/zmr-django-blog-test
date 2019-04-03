@@ -1,0 +1,1 @@
+# zmr-django-blog-test
